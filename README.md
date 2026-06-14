@@ -1,2 +1,0 @@
-# MetaDev-Studio
-MetaDev Studio

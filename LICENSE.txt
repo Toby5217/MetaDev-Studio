@@ -1,6 +1,6 @@
 MetaDev Studio License Agreement
 
-Copyright (c) 2025 [Твоё имя или никнейм]
+Copyright (c) 2025 TOBY5217
 
 All rights reserved.
 
@@ -23,4 +23,4 @@ are permitted only under the following conditions:
    must purchase a commercial license from the copyright holder.
 
 For licensing inquiries, contact:
-[Твой email]
+ppipe448@gmail.com
